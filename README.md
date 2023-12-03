@@ -39,9 +39,6 @@ If you encounter any issues, check the following:
 - Verify that your MySQL server is running and the database `newmini` exists.
 - Ensure that you have the `mysql-connector-java-8.0.21.jar` added to the project's dependencies.
 
-## License
-
-This project is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
